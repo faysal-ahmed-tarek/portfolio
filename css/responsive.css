@@ -1,0 +1,434 @@
+@media(min-width:1024px){
+	a.mobile-toggler {
+    display: none;
+}
+.mobile-nav {
+    display: none;
+}
+.sticky-class {
+    position:fixed;
+    z-index: 2;
+    width: 100%;
+    top: 0px;
+    transition: 0.5s;
+}
+}
+
+ 
+
+                                  /*tablet*/
+@media(max-width:768px){
+nav{
+	display: none;
+}
+section#top-header{
+	display: none;
+}
+.intro-button {
+    margin-left: 300px !important;
+}
+a.mobile-toggler {
+    display:block;
+}
+a.mobile-toggler {width: 50%;}
+
+a.mobile-toggler i {
+    float: right;
+    margin:15px 30px 13px 18px;
+    padding: 10px 10px 10px 12px;
+    background: #141444;
+    color: orange;
+    font-size: 23px;
+    border-radius: 5px;
+}
+
+.introduction-inner p {
+    text-align: justify;
+    padding-left: 35px;
+    margin: 0px;
+}
+.intro-title {
+    width: 65%;
+}
+.intro-title {
+    margin-top: 120px !important;
+}
+.new-container {
+    width: 100% !important;
+    overflow: hidden;
+}
+
+a.mobile-toggler {
+    overflow: hidden;
+    width: 73%;
+}
+
+.navigation-inner img {
+    padding-left: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section#services {
+    height: 1030px !important;
+}
+section#services {
+    margin-bottom: 75px;
+}
+
+.col-xl-4.member-img img {
+    width: 30% !important;
+    margin-left: -80px;
+}
+
+.item.team-inner {
+    margin: 0px 0px 0px 0px;
+}
+
+.member-dtails {
+    width: 48%;
+    margin: 30px 0px 0px -10px;
+}  
+ul.t-icons li {
+    margin-left: 30px !important;
+}
+
+.member-dtails {
+    width: 45% !important;
+}
+button.owl-prev {
+    right: 500px;
+}
+
+button.owl-next {
+    right: 600px;
+}
+
+.team {
+    height: 550px !important;
+}
+i.choose-icon1{
+    display: none !important;
+
+}
+.choose-2nd img {
+    width: 100%;
+    margin-top: 100px;
+}
+.choose-img2 img {
+    width: 100%;
+    margin-top: 70px;
+}
+
+i.choose-icon2 {
+    display: none;
+}
+section#choose-section {
+    height: 950px !important;
+}
+
+section#portfolio-section {
+    height: 1800px !important;
+}
+.c-name {
+    margin: auto;
+}
+
+form.row.cform-inner {
+    margin: auto;
+}
+
+.c-email {
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+.c-phone {
+    margin: auto;
+}
+
+.c-subject {
+    margin: auto;
+    padding-bottom: 25px;
+}
+
+.c-message {
+    margin: auto;
+}
+
+}
+
+
+                                       /*mobile*/ 
+@media(max-width:580px){
+a.mobile-toggler {
+    width: 21%;
+}
+
+i.choose-icon2 {
+    display: block;
+    float: right;
+    width: 20% !important;
+    margin-right: 30px;
+    margin-top: 18px;
+}
+
+.choose-header {
+    padding-top: 45px !important;
+    padding-bottom: 0px !important;
+}
+p.des1 {
+    text-align: justify;
+}
+
+.list-2 {
+    width: 72%;
+    float: left;
+}
+
+.cform-inner {
+    padding-top: 50px;
+    margin: auto !important;
+}
+
+.maps iframe {
+    width: 90% !important;
+}
+
+section#contact-form {
+    height: 1100px !important;
+}
+.intro-title {
+    width: 36%;
+    margin-top: 120px !important;
+}
+.intro-title h2 {
+    font-size: 26px;
+}
+.intro-button {margin-left: 140px !important;}
+
+.intro-title p {
+    margin-bottom: 10px;
+}
+a.mobile-toggler {
+    width: 52%;
+}
+.intro-title {
+    width: 100%;
+}
+a.mobile-toggler {
+    width: 52% !important;
+}
+
+.navigation-inner img {
+    padding-top: 10px !important;
+    padding-bottom: 7px;
+}
+
+.intro-title {
+    width: 100% !important;
+}
+section#services {
+    height: 1900px !important;
+    margin-bottom: 115px;
+}
+
+.member-img img {
+    margin-left: 0px !important;
+    width: 50% !important;
+}
+
+.member-dtails {
+    margin: 390px 0px 0px -351px !important;
+    width: 40% !important;
+}
+
+.team {
+    height: 850px !important;
+}
+
+button.owl-next {
+    left: 321px !important;
+}
+
+button.owl-prev {
+    left: 90px;
+}
+i.choose-icon1{
+    display:block !important;
+}
+.choose-header {
+    padding-bottom: 0px;
+}
+
+i.choose-icon1 {
+    float: right;
+    width: 20%;
+    margin-right: 30px;
+    margin-top: 18px;
+}
+
+.list-1 {
+    width: 72%;
+    float: left;
+}
+
+p.des {
+    text-align: justify !important;
+}
+section#choose-section {
+    margin-top: 200px;
+}
+
+.choose-header {
+    padding-bottom: 20px;
+}
+
+.list-1 .sub {
+    text-align: center !important;
+}
+
+p.sub1 {
+    text-align: center;
+}
+
+.choose-2nd img {
+    margin-top: 0px;
+}
+
+.choose-img2 img {
+    margin-top: 0px;
+}
+section#portfolio-section {
+    height: 3260px !important;
+    margin-top: 312px;
+}
+button.close {
+    margin: 0px !important;
+}
+section#navigation {
+    position: fixed;
+    width: 100%;
+    z-index: 7;
+}
+section#introduction-section {
+    height: 1100px !important;
+}
+
+.intro {
+    height: 1000px !important;
+}
+
+section#choose-section {
+    height:1155px !important;
+}
+
+section#portfolio-section {
+    height: 3660px !important;
+}
+
+}  
+
+
+                                         /*small mobile*/
+@media(max-width:375px){
+a.mobile-toggler {
+    width: 46% !important;
+}
+i.choose-icon2 {
+    margin-top: -91px;
+    width: 23% !important;
+}
+.list-2 {
+    width: 80%;
+    margin-left: -36px;
+    padding-top: 22px;
+}
+.col-xl-7.intro-title {
+    width: 32%;
+}
+section#introduction-section {
+    height: 75vh !important;
+}
+
+section#services {
+    margin-bottom: 150px;
+}
+
+.member-img img {
+    margin-left: -49px !important;
+}
+
+.member-dtails {
+    width: 35% !important;
+    margin-left: -300px !important;
+}
+
+.team {
+    height: 880px !important;
+}
+
+ul.t-icons li {
+    margin-left: 20px !important;
+}
+
+button.owl-prev {
+    left: 20px;
+}
+section#introduction-section {
+    height: 1100px !important;
+}
+
+.intro-title h2 {
+    font-size: 25px;
+}
+
+.choose-header {
+    padding-top: 60px;
+    padding-bottom: 10px;
+}
+section#portfolio-section {
+    height: 3265px !important;
+}
+
+iframe {
+    width: 90% !important;
+}
+
+.cform-inner {
+    padding-top:50px;
+    margin: auto !important;
+}
+
+section#contact-form {
+    height: 1105px !important;
+}
+}    
+
+@media(max-width:370px){
+a.mobile-toggler {
+    float: right;
+    margin-top: -72px;
+}
+
+.member-dtails {
+    width: 32% !important;
+}
+
+button.owl-next {
+    margin-left: -27px !important;
+}
+
+section#portfolio-section {
+    height: 3100px !important;
+}
+i.choose-icon1 {
+    margin-top: -130px;
+}
+}  
+
+@media(max-width:370px){
+a.mobile-toggler {
+    float: right;
+}
+}                                                                                                      
